@@ -36,5 +36,8 @@ The project explores how physical parameters such as height, weight, age, and fi
 
 Clone the repository:
 ```bash
+
 git clone https://github.com/your-username/fightwinpredictor.git
 cd fightwinpredictor
+streamlit run app.py
+
